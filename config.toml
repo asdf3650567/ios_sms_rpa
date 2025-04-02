@@ -1,0 +1,8 @@
+# 端口号
+port = 3000
+
+# 每次请求的默认获取数量
+default_fetch_count = 100
+
+# 测试号
+test_number = "13888888888"
